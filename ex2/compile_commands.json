@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "/usr/include",
+      "-I",
+      "/usr/include",
+      "-I",
+      ".",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/home/isty/Desktop/Ecole/Techniques et Outils d'Ingénierie Logiciel/TP_Linting/realisation/ex2",
+    "file": "/home/isty/Desktop/Ecole/Techniques et Outils d'Ingénierie Logiciel/TP_Linting/realisation/ex2/main.c",
+    "output": "/home/isty/Desktop/Ecole/Techniques et Outils d'Ingénierie Logiciel/TP_Linting/realisation/ex2/main"
+  }
+]
